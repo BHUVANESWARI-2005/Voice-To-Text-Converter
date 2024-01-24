@@ -7,7 +7,7 @@ import speech_recognition as sr
 from gtts import gTTS
 import uuid
 
-api_key = "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"
+api_key = "YOUR API KEY"
 lang = 'en'
 
 openai.api_key = api_key
